@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theophilichrist00conggoog_0011.png"; bbox 0 0 2386 4762; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 2966 936 3113">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 2966 936 3113">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 2966 936 3113; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 153 3038 226 3087; x_wconf 55' lang='lat'><strong>&#39;³1&#39;</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 249 3038 306 3067; x_wconf 74' lang='grc'><strong>“’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 286 3040 609 3113; x_wconf 55' lang='lat' dir='ltr'><strong>:zum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 656 2966 769 3111; x_wconf 32' lang='grc' dir='ltr'><strong>’Ἔτι-113</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 799 3038 936 3109; x_wconf 61' lang='lat'><strong>{1511</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1198 4762">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1198 4762">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1198 4762; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1198 4762; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
